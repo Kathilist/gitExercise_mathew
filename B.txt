@@ -1,2 +1,4 @@
 // Matthias Haas 21.10.2024
 // File B of the exercise
+
+// Hi
